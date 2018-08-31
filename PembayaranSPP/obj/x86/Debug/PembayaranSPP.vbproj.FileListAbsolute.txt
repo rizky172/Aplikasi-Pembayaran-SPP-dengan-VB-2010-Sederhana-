@@ -1,0 +1,71 @@
+C:\Users\BULE\documents\visual studio 2010\Projects\PembayaranSPP\PembayaranSPP\bin\Debug\PembayaranSPP.exe
+C:\Users\BULE\documents\visual studio 2010\Projects\PembayaranSPP\PembayaranSPP\bin\Debug\PembayaranSPP.pdb
+C:\Users\BULE\documents\visual studio 2010\Projects\PembayaranSPP\PembayaranSPP\bin\Debug\PembayaranSPP.xml
+C:\Users\BULE\documents\visual studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BULE\documents\visual studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.Form1.resources
+C:\Users\BULE\documents\visual studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.Resources.resources
+C:\Users\BULE\documents\visual studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BULE\documents\visual studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BULE\documents\visual studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.exe
+C:\Users\BULE\documents\visual studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.xml
+C:\Users\BULE\documents\visual studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.pdb
+C:\Users\BULE\documents\visual studio 2010\Projects\PembayaranSPP\PembayaranSPP\bin\Debug\PembayaranSPP.exe.config
+C:\Users\BULE\documents\visual studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.MasterMahasiswa.resources
+C:\Users\BULE\documents\visual studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.MasterKasir.resources
+C:\Users\BULE\documents\visual studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.Login.resources
+C:\Users\BULE\documents\visual studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.MenuUtama.resources
+C:\Users\BULE\documents\visual studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.MasterBayar.resources
+C:\Users\BULE\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.MasterInfoBayar.resources
+C:\Users\BULE\documents\visual studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.CariData.resources
+C:\Users\BULE\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.MenuUtama.af.resources
+C:\Users\BULE\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\bin\Debug\af\PembayaranSPP.resources.dll
+C:\Users\BULE\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\af\PembayaranSPP.resources.dll
+C:\Users\BULE\documents\visual studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.DataBelumLunas.resources
+D:\SEMESTER.V\VB\PembayaranSPP\PembayaranSPP\bin\Debug\PembayaranSPP.exe.config
+D:\SEMESTER.V\VB\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.exe
+D:\SEMESTER.V\VB\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.xml
+D:\SEMESTER.V\VB\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.pdb
+D:\SEMESTER.V\VB\PembayaranSPP\PembayaranSPP\bin\Debug\PembayaranSPP.exe
+D:\SEMESTER.V\VB\PembayaranSPP\PembayaranSPP\bin\Debug\PembayaranSPP.pdb
+D:\SEMESTER.V\VB\PembayaranSPP\PembayaranSPP\bin\Debug\PembayaranSPP.xml
+D:\SEMESTER.V\VB\PembayaranSPP\PembayaranSPP\bin\Debug\af\PembayaranSPP.resources.dll
+D:\SEMESTER.V\VB\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.vbprojResolveAssemblyReference.cache
+D:\SEMESTER.V\VB\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.CariData.resources
+D:\SEMESTER.V\VB\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.DataBelumLunas.resources
+D:\SEMESTER.V\VB\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.Form1.resources
+D:\SEMESTER.V\VB\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.Login.resources
+D:\SEMESTER.V\VB\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.MasterBayar.resources
+D:\SEMESTER.V\VB\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.MasterInfoBayar.resources
+D:\SEMESTER.V\VB\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.MasterKasir.resources
+D:\SEMESTER.V\VB\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.MasterMahasiswa.resources
+D:\SEMESTER.V\VB\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.MenuUtama.resources
+D:\SEMESTER.V\VB\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.Resources.resources
+D:\SEMESTER.V\VB\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.MenuUtama.af.resources
+D:\SEMESTER.V\VB\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.vbproj.GenerateResource.Cache
+D:\SEMESTER.V\VB\PembayaranSPP\PembayaranSPP\obj\x86\Debug\af\PembayaranSPP.resources.dll
+D:\SEMESTER.V\VB\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.Laporan.resources
+D:\SEMESTER.V\VB\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.bukti_bayar.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\bin\Debug\PembayaranSPP.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.xml
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\bin\Debug\PembayaranSPP.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\bin\Debug\PembayaranSPP.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\bin\Debug\PembayaranSPP.xml
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\bin\Debug\af\PembayaranSPP.resources.dll
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.bukti_bayar.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.CariData.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.DataBelumLunas.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.Laporan.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.Login.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.MasterBayar.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.MasterInfoBayar.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.MasterKasir.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.MasterMahasiswa.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.MenuUtama.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.MenuUtama.af.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\af\PembayaranSPP.resources.dll
